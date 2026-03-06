@@ -1,4 +1,4 @@
-# Domain-Driven Hexagon (Third commit of branch2)
+# Domain-Driven Hexagon (Third commit of branch2 (merged))
 
 **Check out my other repositories**:
 
